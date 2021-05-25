@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PurpleSuite"  thread-count="1"
+	verbose="1">
+
+
+
+<test name="Purple_Application" junit="false" preserve-order="true" >
+		<classes>
+			<class name="com.photon.runner.ExtentReportRunner_PURPLE" />
+		</classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Purple Replatform</documentTitle>
+        <reportName>Purple Replatform Extent Reports</reportName>
+        <reportHeadline> - v2.0.0</reportHeadline>
+    </configuration>
+</extentreports>
